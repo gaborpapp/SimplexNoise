@@ -39,3 +39,5 @@ docs/doxygen/cinder.tag
 *.exe
 *.out
 *.app
+
+*.sw[a-z]
